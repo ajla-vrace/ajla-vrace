@@ -1,5 +1,5 @@
 <h1 align="center">
-## Hi there 👋, I'm Ajla Vrače
+Hi there 👋, I'm Ajla Vrače
   </h1>
   <p align="center">
 Bachelor of Information Technologies, majoring in Software Engineering
