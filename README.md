@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋, I'm Ajla Vrače
+Bachelor of Information Technologies, majoring in Software Engineering
 
 <!--
 **ajla-vrace/ajla-vrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
