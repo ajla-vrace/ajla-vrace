@@ -1,3 +1,4 @@
+<div align="center">
 ## Hi there 👋, I'm Ajla Vrače
 Bachelor of Information Technologies, majoring in Software Engineering
 
@@ -15,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
