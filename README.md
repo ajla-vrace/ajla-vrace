@@ -1,8 +1,8 @@
 <h1 align="center">
 Hi there 👋, I'm Ajla Vrače
   </h1>
-  <p align="center"><b>
-Bachelor of Information Technologies, majoring in Software Engineering</b>
+  <p align="center"><h2>
+Bachelor of Information Technologies, majoring in Software Engineering</h2>
   </p>
 <!--
 **ajla-vrace/ajla-vrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
